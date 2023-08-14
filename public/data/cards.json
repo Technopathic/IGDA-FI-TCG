@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "set": "swsh12pt5",
+    "name": "Egor Sandalnev",
+    "supertype": "IGDA Finland",
+    "subtypes": ["Basic"],
+    "types": ["Unknown"],
+    "number": "1",
+    "rarity": "Rare Secret",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12pt5/160.png",
+      "large": "https://images.pokemontcg.io/swsh12pt5/160_hires.png"
+    }
+  }
+]
